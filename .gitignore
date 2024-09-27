@@ -6,4 +6,6 @@
 
 !.gitignore
 
+.env
+
 !*tf
