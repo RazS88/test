@@ -1,11 +1,2 @@
-
-
 *
-
-!/**/
-
-!.gitignore
-
-.env
-
-!*tf
+*.env
